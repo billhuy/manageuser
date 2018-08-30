@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Bill Huy",
+        "tel":"098800093",
+        "permision":1
+    },
+    {
+        "id":2,
+        "name":"Hoang Duyen",
+        "tel":"654096850897",
+        "permision":2
+    },
+    {
+        "id":3,
+        "name":"Marie Dane",
+        "tel":"0968506799",
+        "permision":2
+    },
+    {
+        "id":4,
+        "name":"Hoang Mie",
+        "tel":"968509678068",
+        "permision":3
+    },
+    {
+        "id":5,
+        "name":"Tien Thanh",
+        "tel":"597866979",
+        "permision":1
+    }
+]
